@@ -1,0 +1,17 @@
+/* styles.css */
+.custom-fieldset {
+    border: 2px solid #343a40; /* Darker border color */
+    border-radius: 0.25rem; /* Rounded corners */
+    padding: 1.5rem;
+  }
+  
+  .custom-input {
+    border: 2px solid #343a40; /* Darker input border color */
+    border-radius: 0.25rem; /* Rounded corners */
+  }
+  
+  .custom-input:focus {
+    border-color: #495057; /* Even darker border on focus */
+    box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.25); /* Focus shadow */
+  }
+  

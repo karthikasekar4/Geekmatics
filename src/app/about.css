@@ -1,0 +1,17 @@
+body {
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    padding-top: 20px;
+  }
+  
+  .carousel-item img {
+    border-radius: 8px;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
